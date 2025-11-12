@@ -4,6 +4,9 @@ pose detection of tennis swing paths from video footage using MediaPipe
 - extracts joint coords, computes geometric transformation to normalize 3d data (uses court boundaries + net as camera angle baselines)
 - cross-video comparative analysis across database of professional 3d swing paths
 - explores a "similarity scoring" to suggest optimal playing style
+
+demo: https://youtu.be/HbyJnkKpvEI 
+
 <img width="600" height="600" alt="3d_swing_path" src="https://github.com/user-attachments/assets/5b78eb17-5441-4c4a-a734-14fd9b547016" />
 
 
