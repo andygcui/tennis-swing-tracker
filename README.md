@@ -1,6 +1,6 @@
-# Tennis Swing Tracket
+# 3d tennis swing tracker
 
-3d post detection of tennis swings from video footage using MediaPipe
+pose detection of tennis swing paths from video footage using MediaPipe
 - extracts joint coords, computes geometric transformation to normalize 3d data (uses court boundaries + net as camera angle baselines)
 - cross-video comparative analysis across database of professional 3d swing paths
 - explores a "similarity scoring" to suggest optimal playing style
