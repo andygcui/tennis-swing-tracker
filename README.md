@@ -1,13 +1,10 @@
-# Tennis Movement Tracking and Analysis
+# Tennis Swing Tracket
 
-This project provides a system for tracking and analyzing tennis movements from video footage and comparing them to a database of professional tennis players' movements.
+3d post detection of tennis swings from video footage using MediaPipe
+- extracts joint coords, computes geometric transformation to normalize 3d data (uses court boundaries + net as camera angle baselines)
+- cross-video comparative analysis across database of professional 3d swing paths
+- explores a "similarity scoring" to suggest optimal playing style
 
-## Features
-
-- Real-time pose estimation for tennis players
-- Movement tracking and analysis
-- Comparison with professional player movements
-- Visualization of movement patterns
 
 ## Setup
 
